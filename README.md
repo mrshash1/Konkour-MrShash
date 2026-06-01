@@ -1,2 +1,2 @@
-# Konkour-MrShash
+# Konkur-MrShash
 داشبورد شخصی کنکور
